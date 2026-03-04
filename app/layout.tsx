@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Orbitron, Rajdhani } from "next/font/config/google"; // normally import from "next/font/google"
 import { Orbitron as OrbitronFont, Rajdhani as RajdhaniFont } from "next/font/google"; // fixing import
 import "./globals.css";
 
